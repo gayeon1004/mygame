@@ -1,10 +1,5 @@
 import mod1
 
-# 더하기
-result = mod1.add(num1,num2)
-# 결과값 출력
-print(result)
-
 # 두 수를 입력 받게 만들고
 num1 = int(input("첫번째 수 입력:")) #문자로 입력되기 때문에 숫자로 변경
 num2 = int(input("두번째 수 입력:")) #문자로 입력되기 때문에 숫자로 변경
